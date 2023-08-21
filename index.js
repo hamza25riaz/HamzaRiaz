@@ -13,3 +13,5 @@ console.log("The Fibonacci sequence up to the 10th term is:");
 for (let i = 0; i < 10; i++) {
   console.log(fibonacci(i));
 }
+# I made a code change in the app.js file
+console.log("The Fibonacci sequence up to the 11th term is aaaaaaa:"); 
